@@ -9,7 +9,7 @@ A simple weather app built with HTML, CSS, and JavaScript that shows real-time w
 - Dynamic weather icons
 
 ## Live Demo
-[Click here to view](https://your-demo-link.com)
+[Click here to view]([https://your-demo-link.com](https://abhaydutta.github.io/PRODIGY_WD_05))
 
 ## Screenshot
 ![Weather App Screenshot](./Weather%20App.png)
